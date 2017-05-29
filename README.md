@@ -10,4 +10,5 @@ PictureCheckCode---验证码生成与更新。
 
 在开发中验证码是比较常用到有效防止这种问题对某一个特定注册用户用特定程序暴力破解方式进行不断的登陆尝试的方式。
 
- ![image](https://github.com/ljheee/PictureCheckCode/blob/master/ui1.jpg)
+ ![image](https://github.com/ljheee/CheckCodeLogin/blob/master/ui1.jpg)
+ 
