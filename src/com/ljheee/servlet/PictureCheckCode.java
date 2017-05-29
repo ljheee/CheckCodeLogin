@@ -1,4 +1,4 @@
-package com.ljheee.util;
+package com.ljheee.servlet;
 
 import java.awt.BasicStroke;
 import java.awt.Color;
@@ -19,6 +19,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
+/**
+ *验证码生成与更新
+ */
 @WebServlet("/pictureCheckCode")
 public class PictureCheckCode extends HttpServlet {
 
